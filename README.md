@@ -48,6 +48,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/cosminmarina/cosminmarina/output/snake.svg" alt="Snake animation" />
-![Snake Game](https://github.com/cosminmarina/cosminmarina/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
